@@ -1,0 +1,5 @@
+,value
+KNN k,8
+Decision Tree max_depth,3
+KNN Regressor k,19
+Decision Tree Regressor max_depth,4

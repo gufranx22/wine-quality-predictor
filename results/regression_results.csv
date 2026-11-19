@@ -1,0 +1,4 @@
+Model,RMSE,MAE,R-squared
+KNN Regressor,0.71,0.554,0.3478
+Decision Tree Regressor,0.7194,0.5593,0.3304
+Linear Regression,0.6796,0.5222,0.4024

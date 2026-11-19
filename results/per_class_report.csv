@@ -1,0 +1,9 @@
+Model,Class,Precision,Recall,F1-score,Support
+KNN,Not good (0),0.6503,0.7438,0.6939,160
+KNN,Good (1),0.7389,0.6444,0.6884,180
+Naive Bayes,Not good (0),0.6878,0.8125,0.745,160
+Naive Bayes,Good (1),0.8013,0.6722,0.7311,180
+Decision Tree,Not good (0),0.6816,0.7625,0.7198,160
+Decision Tree,Good (1),0.764,0.6833,0.7214,180
+Logistic Regression,Not good (0),0.7045,0.775,0.7381,160
+Logistic Regression,Good (1),0.7805,0.7111,0.7442,180

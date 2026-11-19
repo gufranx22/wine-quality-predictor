@@ -1,0 +1,5 @@
+Model,TN,FP,FN,TP
+KNN,119,41,64,116
+Naive Bayes,130,30,59,121
+Decision Tree,122,38,57,123
+Logistic Regression,124,36,52,128

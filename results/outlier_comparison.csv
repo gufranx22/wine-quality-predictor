@@ -1,0 +1,5 @@
+,With outliers,Outliers capped
+KNN,0.7206,0.6912
+Naive Bayes,0.7412,0.7382
+Decision Tree,0.7206,0.7206
+Logistic Regression,0.7529,0.7412
